@@ -1,0 +1,7 @@
+{
+  "name": "Açaí na Tigela | Pedidos & Delivery",
+  "description": "Sistema completo e moderno de pedidos de açaí com personalização, carrinho, cálculo de entrega e envio direto para o WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
